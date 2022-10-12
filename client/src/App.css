@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.main_div{
+  width: 40%;
+  margin: auto;
+}
+
+.collection-item{
+  font-size: large;
+}
+
+.collection-item:hover{
+  text-decoration: line-through;
+}
